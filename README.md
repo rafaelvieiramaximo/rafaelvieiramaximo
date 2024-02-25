@@ -3,8 +3,15 @@
 - 🌱 Estou estudando JavaScript.
 - 📫 Contate-me pelo e-mail: rafavmaximo@gmail.com
 - ⚡ Sou um iniciante no mundo dev.
-<div>
-<a href="https://github.com/rafaelvieiramaximo">
-<img height="180em" scr="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
-</div>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
