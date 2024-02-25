@@ -5,12 +5,12 @@
 - ⚡ Sou um iniciante no mundo dev.
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=rafaelvieiramaximo&show_icons=true&theme=highcontrast"
+    srcset="https://github-readme-stats.vercel.app/api?username=rafaelvieiramaximo&show_icons=true&theme=dracula"
     media="(prefers-color-scheme: highcontrast)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=rafaelvieiramaximo&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: cobalt), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelvieiramaximo&show_icons=true" />
 </picture>
