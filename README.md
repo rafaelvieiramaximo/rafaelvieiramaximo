@@ -21,5 +21,5 @@
   <a href="https://www.instagram.com/ra_maxiu/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-vieira-maximo1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-![Snake animation](https://github.com/rafaelvieiramaximo/rafaelvieiramaximo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rafaelvieiramaximo/rafaelvieiramaximo/blob/output/github-contribution-grid-snake.svg)
 
