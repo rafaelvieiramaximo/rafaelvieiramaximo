@@ -23,4 +23,6 @@
   <a href="https://www.linkedin.com/in/rafael-vieira-maximo1/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/rafaelvieiramaximo/rafaelvieiramaximo/blob/output/github-contribution-grid-snake.svg)
+
 
