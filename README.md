@@ -6,13 +6,14 @@
 <div>
   <a href="https:"https://github.com/rafaelvieiramaximo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelvieiramaximo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img marginbotton="15" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieiramaximo&layout=compact&langs_count=16&theme=algolia"/>
+    <img marginbotton="15" height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelvieiramaximo&layout=compact&langs_count=16&theme=algolia"/>
 </div> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Rafa-Css" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" /> 
   <img align="center" alt="Rafa-Html" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Css" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Rafa-Git Hub" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 </div>
 
 ##
