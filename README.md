@@ -1,8 +1,8 @@
 ### Hi there 👋 Eu sou o Rafael Máximo
 
-- 🌱 Estou estudando Python.
+- 🌱 Estou estudando React, Next Js
 - 📫 Contate-me pelo e-mail: rafavmaximo@gmail.com
-- ⚡ Sou um iniciante no mundo dev.
+- ⚡ Sou um apaixonado em programação
 
 <div>
   <a href="https://github.com/rafaelvieiramaximo">
